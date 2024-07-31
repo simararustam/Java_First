@@ -20,7 +20,7 @@ public class Rock_paper_scissors {
             if (user_selection.equalsIgnoreCase("S")) user_selection = "Scissors";
             if (user_selection.equalsIgnoreCase("R")) user_selection = "Rock";
             if (user_selection.equalsIgnoreCase("p")) user_selection = "Paper";
-
+            // nermin dediki comment yaz
 
             if (comp_selection.equals("Rock") && user_selection.equals("Scissors")){
                 System.out.println("Comp win");
