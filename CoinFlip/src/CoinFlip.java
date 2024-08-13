@@ -28,6 +28,7 @@ public class CoinFlip {
                 System.out.println("False!");
             }
 
+
             while (true) {
                 System.out.print("Continue (C) or not (N): ");
                 String endOrNot = input.next();
