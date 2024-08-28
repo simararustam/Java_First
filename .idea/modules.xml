@@ -2,11 +2,18 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Abstract Class and Subclasses/Abstract Class and Subclasses.iml" filepath="$PROJECT_DIR$/Abstract Class and Subclasses/Abstract Class and Subclasses.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Banking System/Banking System.iml" filepath="$PROJECT_DIR$/Banking System/Banking System.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Card Game/Card Game.iml" filepath="$PROJECT_DIR$/Card Game/Card Game.iml" />
       <module fileurl="file://$PROJECT_DIR$/CoinFlip/CoinFlip.iml" filepath="$PROJECT_DIR$/CoinFlip/CoinFlip.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exception Normal L/Exception Normal L.iml" filepath="$PROJECT_DIR$/Exception Normal L/Exception Normal L.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hangman/Hangman.iml" filepath="$PROJECT_DIR$/Hangman/Hangman.iml" />
       <module fileurl="file://$PROJECT_DIR$/Inheritance/Inheritance.iml" filepath="$PROJECT_DIR$/Inheritance/Inheritance.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java_First.iml" filepath="$PROJECT_DIR$/Java_First.iml" />
       <module fileurl="file://$PROJECT_DIR$/Library/Library.iml" filepath="$PROJECT_DIR$/Library/Library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Multi-thread/Multi-thread.iml" filepath="$PROJECT_DIR$/Multi-thread/Multi-thread.iml" />
       <module fileurl="file://$PROJECT_DIR$/Override/Override.iml" filepath="$PROJECT_DIR$/Override/Override.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Shape Challenge/Shape Challenge.iml" filepath="$PROJECT_DIR$/Shape Challenge/Shape Challenge.iml" />
       <module fileurl="file://$PROJECT_DIR$/Zoo Simulator/Zoo Simulator.iml" filepath="$PROJECT_DIR$/Zoo Simulator/Zoo Simulator.iml" />
     </modules>
   </component>
